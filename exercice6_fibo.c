@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+int fibo (int n);
 
 int fibo (int n){
     int u0 = 0;
