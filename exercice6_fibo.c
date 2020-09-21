@@ -29,4 +29,5 @@ int main() {
     return(0);
 }
 
-/*l'utilisateur doit tester les valeurs initials u0 et u1 ainsi que d'autre valeur pour s'assurer du bon fonctionnement*/ 
+/*l'utilisateur doit tester les valeurs initials u0 et u1 ainsi que d'autre valeur pour s'assurer du bon fonctionnement
+  Pour se faire on peut aller voir sur internet le resultat de la suite de fibonacci par exemple pour fibo(10) = 55*/ 

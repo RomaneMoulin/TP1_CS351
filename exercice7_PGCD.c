@@ -25,3 +25,7 @@ int main()
     printf("%d\n",x);
     return 0;
 }
+
+/*Pour tester le programme on peut se servir d'internet pour trouver des valeur et les tester ensuites
+  par exemple : PGCD(357 ; 561) = 51. 
+  on peut aussi tester avec a ou b = 0 ou encore a = b voir si la valeur du cgcd est la bonne*/
