@@ -40,6 +40,6 @@ int main()
     return 0;
 }
 
-/*on test avec une table aleatoire puis on peut voir comment le programme reagit aux valeur non désiré comme les nombres
+/*On teste avec une table aleatoire, et on peut voir comment le programme reagit aux valeurs non désirées comme les nombres
   negatifs et 0.
-  il faut aussi s'assurer que les erreurs soit bien compté.*/
+  Il faut aussi s'assurer que les erreurs soit bien comptées.*/
